@@ -1,6 +1,6 @@
 # Color Grading Tool
 
-[Color Grading Tool](https://androluix.github.io/color-grading/) è una semplice applicazione web che consente di generare sfumature di un colore partendo da un valore esadecimale (#HEX). Inserendo un colore in formato esadecimale e selezionando il numero di sfumature desiderato, l'applicazione mostra una lista di colori con il relativo valore HEX e RGB.
+[Color Grading Tool](https://dev-iadicola.github.io/color-grading/) è una semplice applicazione web che consente di generare sfumature di un colore partendo da un valore esadecimale (#HEX). Inserendo un colore in formato esadecimale e selezionando il numero di sfumature desiderato, l'applicazione mostra una lista di colori con il relativo valore HEX e RGB.
 
 ## Funzionalità
 
@@ -10,15 +10,13 @@
 
 ## Come usare il progetto
 
-1. Accedi al sito web: [Color Grading Tool](https://androluix.github.io/color-grading/)
+1. Accedi al sito web: [Color Grading Tool](https://dev-iadicola.github.io/color-grading/)
 2. Inserisci un valore HEX valido (es. `#FF5733`)
 3. Seleziona il numero di sfumature desiderato (tra 5 e 100)
 4. Premi il pulsante per generare le sfumature
 5. Visualizza la lista di colori generati con i rispettivi codici HEX e RGB
 
-## Esempio
 
-![Color Grading Example](https://via.placeholder.com/800x400.png?text=Example+Image)
 
 ## Tecnologie utilizzate
 
